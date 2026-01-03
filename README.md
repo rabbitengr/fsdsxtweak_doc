@@ -1,2 +1,2 @@
 # fsdsxtweak_doc
-Manual for FSDSXtweak, FSDSXTweak_plugin, and FSDSXTweak_edit
+Manual for FSDSXtweak and FSDSXTweak_edit
